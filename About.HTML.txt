@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us - Cinci Christian Fellowship</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact</a>
+      <a href="register.html">Register</a>
+    </nav>
+  </header>
+
+  <main>
+    <img src="images/prayer.jpg" alt="About Us" class="main-img">
+    <p>Cinci Christian Fellowship is a small, Christ-centered community in Cincinnati. We believe in prayer, discipleship, and living the Word of God.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Cinci Christian Fellowship</p>
+  </footer>
+</body>
+</html>

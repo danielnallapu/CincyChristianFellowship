@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cinci Christian Fellowship</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Cinci Christian Fellowship</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact</a>
+      <a href="register.html">Register</a>
+    </nav>
+  </header>
+
+  <main>
+    <img src="images/prayer.jpg" alt="Christian Fellowship Gathering" class="main-img">
+    <h2>Welcome!</h2>
+    <p>Join us in prayer, fellowship, and the Word of God. We are a growing fellowship in Cincinnati spreading the love of Christ.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Cinci Christian Fellowship</p>
+  </footer>
+</body>
+</html>
